@@ -1,0 +1,305 @@
+{
+  "navigation": {
+    "home": "首页",
+    "compareTwoColumns": "对比两列",
+    "posts": "文章",
+    "admin": "管理",
+    "login": "登录",
+    "logout": "登出"
+  },
+  "home": {
+    "title": "Excel",
+    "subtitle": "告别繁琐的Excel公式",
+    "description": "秒速定位重复值、独有项以及遗漏的数据",
+    "tagline1": "100% 免费",
+    "tagline2": "隐私优先",
+    "tagline3": "无需公式",
+    "tagline4": "高亮差异",
+    "moreArticles": "更多文章"
+  },
+  "keyFeatures": {
+    "title": "核心功能亮点",
+    "freeNoInstall": {
+      "title": "免费使用，无需安装",
+      "description": "完全免费的专业级对比工具。无需下载任何软件，无需注册账号，打开浏览器即可即插即用，零门槛上手。"
+    },
+    "privateSecure": {
+      "title": "数据纯本地处理，绝对安全",
+      "description": "所有文件处理均在您的浏览器本地完成，绝不上传至任何服务器。确保您的敏感业务数据完全保留在设备中，100% 私密安全。"
+    },
+    "universalFormat": {
+      "title": "支持 .xlsx、.xls 及 .csv 格式",
+      "description": "完美兼容主流表格格式（.xlsx / .xls / .csv）。无需繁琐的格式转换，直接上传即可无缝进行跨格式文件对比。"
+    },
+    "syncScrolling": {
+      "title": "智能同步滚动",
+      "description": "左右视图自动同步。当您滚动一侧时，另一侧会自动跟随并保持行对齐，彻底告别\"肉眼对行\"的痛苦，让并排找不同变得轻松直观。"
+    },
+    "instantHighlight": {
+      "title": "差异项自动高亮显示",
+      "description": "系统会自动通过不同颜色区分\"修改\"、\"新增\"和\"删除\"的数据。哪怕是最细微的数值变动，也能帮您一眼识别，不再遗漏。"
+    },
+    "highPerformance": {
+      "title": "海量数据极速处理",
+      "description": "专为大型表格优化性能。无论文件数据量多大，都能提供丝滑流畅、无卡顿的操作体验，秒级出结果。"
+    }
+  },
+  "faq": {
+    "title": "关于 Excel 文件对比的常见问题",
+    "subtitle": "有其他疑问请发送邮件至 support@excelcompare.org 联系我们。",
+    "questions": [
+      {
+        "question": "在线对比两个 Excel 文件差异的最佳方法是什么？",
+        "answer": "ExcelCompare 提供了最直观的解决方案。与人工手动检查不同，我们的工具能让整个过程自动化。您只需上传原始表和修改后的表，系统就会即时识别数据差异。它就像一个专为电子表格设计的可视化\"找不同\"神器，是无需复杂设置即可对比两个 Excel 文件的最佳工具。"
+      },
+      {
+        "question": "如何在不安装额外软件的情况下并排对比表格？",
+        "answer": "您完全不需要安装笨重的桌面软件。ExcelCompare 直接在您的浏览器中运行。它具备智能同步滚动功能，这意味着当您滚动一张表时，另一张表会自动跟随移动。这确保了完美的左右并排对比体验，让您能轻松且即时地发现行列中的变动。"
+      },
+      {
+        "question": "这个工具能自动高亮显示 Excel 表格之间的变化吗？",
+        "answer": "是的。我们的引擎专为自动高亮差异而设计。修改过的单元格、新增的行以及被删除的数据都会用不同颜色进行标记（例如：绿色代表新增，红色代表删除）。这种视觉化的方法比使用传统 Excel 公式查找数据出入要快得多，也更准确。"
+      },
+      {
+        "question": "使用免费在线服务对比 Excel 文件安全吗？",
+        "answer": "大多数在线转换器会将您的数据上传到服务器，这确实存在泄露风险。但 ExcelCompare 是独一无二的：我们采用客户端本地处理技术。您的数据从未离开过您的电脑，所有的对比运算都在您的浏览器内部完成。这是目前在线对比 Excel 表格最安全的方式，请放心使用。"
+      },
+      {
+        "question": "我可以对比包含数千行数据的大型 Excel 文件吗？",
+        "answer": "可以。我们的引擎针对高性能进行了深度优化。无论您是需要对比大型 Excel 文件还是简单的列表，该工具都能丝滑处理海量数据，而不会出现其他网页应用常见的卡顿现象。我们支持极高的行数限制，确保您可以高效分析大数据。"
+      },
+      {
+        "question": "ExcelCompare 是完全免费的吗？",
+        "answer": "是的，我们是全网少数真正免费提供 Excel 文件对比服务的平台之一。这里没有隐形的订阅费，基本功能没有所谓的\"Pro\"付费版限制，也不需要您绑定信用卡。您可以完全免费地使用所有专业级的对比功能。"
+      }
+    ]
+  },
+  "articles": {
+    "title": "文章",
+    "noCategory": "无分类",
+    "noArticles": "暂无文章",
+    "moreArticles": "更多文章 →",
+    "coverImageAlt": "文章封面图",
+    "readMore": "阅读更多"
+  },
+    "admin": {
+    "dashboard": "管理后台",
+    "manageArticles": "管理文章",
+    "name": "名称",
+    "description": "描述",
+    "url": "链接",
+    "category": "分类",
+    "actions": "操作",
+    "edit": "编辑",
+    "save": "保存",
+    "addNew": "新增",
+    "createArticle": "创建新文章",
+    "editArticle": "编辑文章",
+    "articleTitle": "文章标题",
+    "articleDescription": "文章描述",
+    "articleSlug": "文章别名",
+    "articleContent": "文章内容（Markdown）",
+    "categoryOptional": "分类（可选）",
+    "creating": "创建中...",
+    "create": "创建文章",
+    "loading": "加载中...",
+    "savingArticle": "保存中..."
+  },
+  "login": {
+    "title": "管理员登录",
+    "username": "用户名",
+    "password": "密码",
+    "enterUsername": "输入用户名",
+    "enterPassword": "输入密码",
+    "signIn": "登录",
+    "signingIn": "登录中..."
+  },
+  "excelUpload": {
+    "title": "上传 Excel 文件",
+    "subtitle": "拖拽 Excel 文件进行对比",
+    "privacyNotice": "您的数据永不离开浏览器。100% 隐私保护。",
+    "dropZone": {
+      "dragText": "拖拽 Excel 文件到此处",
+      "clickText": "或点击选择文件",
+      "uploading": "正在上传文件...",
+      "supportedFormats": "支持 .xlsx, .xls, .xlsm, .xlsb 格式",
+      "maxSize": "最大文件大小: {size}"
+    },
+    "preview": {
+      "sheetSelector": "工作表:",
+      "columnSelector": "对比列",
+      "reupload": "删除",
+      "loading": "正在解析 Excel 文件...",
+      "emptyWorksheet": "当前工作表为空",
+      "emptyWorksheetMessage": "工作表为空",
+      "emptyWorksheetTryOther": "尝试切换到其他工作表查看数据",
+      "noData": "当前工作表无数据",
+      "noDataMessage": "工作表仅包含格式或空单元格",
+      "dataTruncated": "... 显示前 1000 行，共 {total} 行数据 ...",
+      "rows": "行",
+      "columns": "列"
+    },
+    "error": {
+      "invalidFormat": "不支持的文件格式，请上传 Excel 文件 (.xlsx, .xls, .xlsm, .xlsb)",
+      "fileTooLarge": "文件太大，最大支持 {size}",
+      "parseError": "Excel 文件解析失败",
+      "reselectFile": "重新选择文件",
+      "uploadFailed": "上传失败"
+    },
+    "findDifferenceButton": "查找差异",
+    "comparing": "比较中",
+    "comparingColumns": "对比列: {leftCol} & {rightCol}",
+    "matchRows": "匹配行: {count}",
+    "leftUnique": "左表独有: {count}",
+    "rightUnique": "右表独有: {count}",
+    "differenceResults": "差异结果",
+    "backToPreview": "返回预览",
+    "originalFile": "原始文件",
+    "modifiedFile": "修改后文件",
+    "statistics": "统计信息",
+    "unchanged": "相同",
+    "modified": "修改",
+    "added": "新增",
+    "deleted": "删除",
+    "totalRows": "总计",
+    "differenceRate": "差异率",
+    "calculating": "正在计算差异...",
+    "showDiffs": "仅看差异",
+    "showMatches": "仅看匹配"
+  },
+  "language": {
+    "select": "选择语言",
+    "suggestion": {
+      "message": "您的浏览器语言是{language}，我们网站支持此语言。",
+      "switch": "切换到{language}",
+      "dismiss": "继续使用{currentLanguage}"
+    }
+  },
+  "howToCompare": {
+    "title": "选择您的对比模式",
+    "subtitle": "在下方选择最适合的工具，无需任何公式，瞬间发现数据差异。",
+    "step1": {
+      "title": "可视化全表对比",
+      "description": "最直观的\"找不同\"工具。上传新旧 Excel 文件，系统会自动进行左右并排展示，并用颜色高亮显示所有修改、新增和删除的内容。告别肉眼逐行核对，一眼看清所有版本变动。",
+      "feature1": "同步滚动",
+      "feature2": "智能高亮",
+      "feature3": "完美支持各种格式"
+    },
+    "step2": {
+      "title": "跨表清单核对",
+      "description": "只想检查两个名单中谁\"缺席\"了或者谁是\"新增\"的？无论数据顺序有多乱，我们都能帮您瞬间从两列数据中提取出\"共有项（交集）\"和\"独有项（差集）\"。非常适合用于考勤核对、库存盘点以及高效去除重复项。",
+      "feature1": "自动去重",
+      "feature2": "交集与差集视图",
+      "feature3": "轻量级操作"
+    },
+    "step3": {
+      "title": "智能 ID 匹配对比",
+      "description": "彻底告别复杂的 VLOOKUP 公式！只需选择一列\"唯一标识符\"（例如工号、SKU 编码）作为 Key，再选择需要对比的数值列。系统会自动从乱序的表格中过滤出\"共有项\"和\"独有项\"，并高亮显示任何数值变动。",
+      "feature1": "无视行顺序",
+      "feature2": "精准字段核对",
+      "feature3": "零公式门槛"
+    },
+    "stepButton": {
+      "step1": "全表对比",
+      "step2": "列对比",
+      "step3": "ID 匹配"
+    },
+    "compareSheetsButton": "对比两个表格",
+    "compareColumnsButton": "对比两列数据",
+    "ariaLabel": "转到第 {step} 步"
+  },
+  "reviews": {
+    "title": "彻底告别\"表格噩梦\"",
+    "subtitle": "看看专业人士如何省下数小时，摆脱繁琐的人工核对工作"
+  },
+  "compareTwoColumns": {
+    "hero": {
+      "title": "快速比对 Excel 列数据",
+      "subtitle": "别再为写 VLOOKUP 或 COUNTIF 公式头疼了"
+    },
+    "howToCompare": {
+      "title": "快速比对列数据，即刻发现异同",
+      "subtitle": "无需 VLOOKUP 公式，轻松查找重复项与独有值",
+      "description": "在 Excel 中比对两个列表，通常需要编写复杂的 VLOOKUP 公式或设置难以管理的\"条件格式\"。我们的工具将这一过程简化为以下三步：",
+      "steps": {
+        "upload": {
+          "title": "上传文件",
+          "description": "拖拽上传您的 Excel 文件，既支持比对同一文件内的列表，也支持跨文件比对不同列。"
+        },
+        "selectColumns": {
+          "title": "选择目标列",
+          "description": "无需进行全表比对，您只需分别选中两个列表中的目标列（例如列表 1 的\"A 列\"与列表 2 的\"B 列\"）"
+        },
+        "chooseView": {
+          "title": "选择查看视图",
+          "description": "交集：查看两个列表中都存在的项目（重复项）\n仅限 A：查看 B 列表中缺失的项目（A 有 B 无）\n仅限 B：查看 B 列表中新增的项目（B 有 A 无）"
+        }
+      },
+      "carousel": {
+        "descriptions": {
+          "instantPreview": "即时数据预览",
+          "visualComparison": "可视化比较",
+          "focusOnDifferences": "专注差异",
+          "findMatches": "即时查找匹配项"
+        }
+      }
+    },
+    "scenarios": {
+      "title": "列比对的真实应用案例",
+      "subtitle": "为市场、HR 和财务人员简化数据核对任务",
+      "emailMarketing": {
+        "title": "邮件营销名单清洗",
+        "content": "手头有一份\"新潜客名单\"和一份\"请勿联系（黑名单）\"？利用工具比对两张表中的\"邮箱\"列，一键剔除包含在勿扰名单中的用户，快速生成干净有效的推广列表。"
+      },
+      "eventTracking": {
+        "title": "活动出席缺勤追踪",
+        "content": "将\"报名人员\"列与\"现场签到\"列进行比对。选择\"仅限报名列表\"视图，即可瞬间找出那些报了名却未出席的人员名单。"
+      },
+      "financialReconciliation": {
+        "title": "月度财务对账",
+        "content": "上传您的企业内部账目和银行对账单。通过比对\"交易流水号\"列，快速定位哪些款项是银行已入账但内部未记录的（或反之），轻松发现账目差异。"
+      }
+    },
+    "faq": {
+      "title": "列数据比对常见问题",
+      "subtitle": "还有其他疑问请联系：support@excelcompare.org",
+      "questions": [
+        {
+          "question": "如何在不用公式的情况下比对 Excel 两列的重复项？",
+          "answer": "只需将文件上传到 ExcelCompare，选中您想要检查的两列，然后点击 \"交集\" 按钮。工具会立即提取出两个列表中都存在的重复值，您再也不用费劲去写 COUNTIF 或 VLOOKUP 公式了。"
+        },
+        {
+          "question": "我可以比对两个不同 Excel 文件中的列吗？",
+          "answer": "可以。原生 Excel 通常要求两个表格必须在同一个工作簿中才方便比对，但我们的在线工具允许您上传两个独立的文件（例如\"1月.xlsx\"和\"2月.xlsx\"），并立即对其中的特定列进行并排比对。"
+        },
+        {
+          "question": "如果数据里有多余的空格或字母大小写不一致怎么办？",
+          "answer": "我们的工具内置了\"智能修剪\"功能。它会自动忽略数据首尾的空格，确保像 \" Apple \"（带空格）和 \"Apple\"（无空格）被视为匹配项。这能为您节省数小时的手动清洗数据时间。"
+        },
+        {
+          "question": "这个工具和首页的\"表格比对\"有什么区别？",
+          "answer": "有区别。首页的工具用于 \"视觉差异比对\"——它关注的是逐行的布局、格式和单元格内容的变化。\n而本页面的 \"列比对\" 工具则是基于 \"集合逻辑\"。它会忽略行号位置，纯粹关注某项数据是否存在于这一个或那一个列表中。"
+        },
+        {
+          "question": "我需要通过 ID（如 SKU）对齐行，然后再比对数值（如价格）。这个工具适合吗？",
+          "answer": "不适合。如果您需要基于一个\"键 (Key)\"来对齐两行数据，并比对对应的\"值 (Value)\"，请使用我们的 \"键值对 (Key + Value) 比对工具\"。当前页面仅限于比对两个单列列表的内容异同。"
+        },
+        {
+          "question": "我的数据安全吗？",
+          "answer": "绝对安全。所有的比对处理都在您的浏览器本地（客户端）进行。您的 Excel 文件从未上传到我们的服务器，也不会被存储，确保您的敏感数据隐私无忧。"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Excel Compare：免费、安全的电子表格比较工具，具有同步滚动和即时差异高亮功能。本地处理，无需安装。",
+    "quickLinks": "快速链接",
+    "connect": "联系方式",
+    "home": "首页",
+    "articles": "文章",
+    "github": "support@excelcompare.org",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款",
+    "copyright": "© {year} Excel Compare. 保留所有权利。"
+  }
+}

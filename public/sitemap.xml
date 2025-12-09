@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- 主页 - 默认语言 (英文) -->
+  <url>
+    <loc>https://excelcompare.org/</loc>
+    <lastmod>2025-12-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://excelcompare.org/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://excelcompare.org/zh/" />
+  </url>
+
+  <!-- 中文主页 -->
+  <url>
+    <loc>https://excelcompare.org/zh/</loc>
+    <lastmod>2025-12-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://excelcompare.org/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://excelcompare.org/zh/" />
+  </url>
+
+  <!-- 隐私政策 - 英文 -->
+  <url>
+    <loc>https://excelcompare.org/privacy-policy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://excelcompare.org/privacy-policy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://excelcompare.org/zh/privacy-policy/" />
+  </url>
+
+  <!-- 隐私政策 - 中文 -->
+  <url>
+    <loc>https://excelcompare.org/zh/privacy-policy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://excelcompare.org/privacy-policy/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://excelcompare.org/zh/privacy-policy/" />
+  </url>
+
+  <!-- 服务条款 - 英文 -->
+  <url>
+    <loc>https://excelcompare.org/terms-of-service/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://excelcompare.org/terms-of-service/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://excelcompare.org/zh/terms-of-service/" />
+  </url>
+
+  <!-- 服务条款 - 中文 -->
+  <url>
+    <loc>https://excelcompare.org/zh/terms-of-service/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://excelcompare.org/terms-of-service/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://excelcompare.org/zh/terms-of-service/" />
+  </url>
+
+  <!-- 对比两列 - 英文 -->
+  <url>
+    <loc>https://excelcompare.org/compare-two-columns/</loc>
+    <lastmod>2025-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://excelcompare.org/compare-two-columns/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://excelcompare.org/zh/compare-two-columns/" />
+  </url>
+
+  <!-- 对比两列 - 中文 -->
+  <url>
+    <loc>https://excelcompare.org/zh/compare-two-columns/</loc>
+    <lastmod>2025-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://excelcompare.org/compare-two-columns/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://excelcompare.org/zh/compare-two-columns/" />
+  </url>
+
+  <!-- 博客 - 英文 -->
+  <url>
+    <loc>https://excelcompare.org/posts/</loc>
+    <lastmod>2025-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://excelcompare.org/posts/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://excelcompare.org/zh/posts/" />
+  </url>
+
+  <!-- 博客 - 中文 -->
+  <url>
+    <loc>https://excelcompare.org/zh/posts/</loc>
+    <lastmod>2025-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://excelcompare.org/posts/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://excelcompare.org/zh/posts/" />
+  </url>
+
+  
+  <!-- 文章 - 如何快速对比两个 Excel 文件的差异 (英文) -->
+  <url>
+    <loc>https://excelcompare.org/articles/how-to-compare-two-excel-files-for-differences-in-seconds/</loc>
+    <lastmod>2025-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://excelcompare.org/articles/how-to-compare-two-excel-files-for-differences-in-seconds/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://excelcompare.org/zh/articles/how-to-compare-two-excel-files-for-differences-in-seconds/" />
+  </url>
+
+  <!-- 文章 - 如何快速对比两个 Excel 文件的差异 (中文) -->
+  <url>
+    <loc>https://excelcompare.org/zh/articles/how-to-compare-two-excel-files-for-differences-in-seconds/</loc>
+    <lastmod>2025-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://excelcompare.org/articles/how-to-compare-two-excel-files-for-differences-in-seconds/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://excelcompare.org/zh/articles/how-to-compare-two-excel-files-for-differences-in-seconds/" />
+  </url>
+
+</urlset>

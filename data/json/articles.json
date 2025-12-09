@@ -1,0 +1,22 @@
+[
+  {
+    "title": "How to Compare Two Excel Files for Differences in Seconds",
+    "description": "Stop checking rows manually. Compare two Excel files and find differences in seconds. No VLOOKUP needed—just highlight changes instantly and accurately.",
+    "date": "2025-12-04",
+    "category": null,
+    "coverImage": "/images/article-covers/excel-comparison-hero.jpg",
+    "lastModified": "2025-12-04T19:34:30Z",
+    "path": "data/md/en/how-to-compare-two-excel-files-for-differences-in-seconds.md",
+    "language": "en"
+  },
+  {
+    "title": "如何在几秒钟内比较两个Excel文件的差异",
+    "description": "使用 ExcelCompare 快速对比两个 Excel 文件差异，几秒钟内高亮显示修改、新增与删除内容，替代繁琐的手动核对。免费在线工具，立即使用吧。",
+    "date": "2025-12-04",
+    "category": null,
+    "coverImage": "/images/article-covers/excel-comparison-hero-zh.jpg",
+    "lastModified": "2025-12-04T19:34:30Z",
+    "path": "data/md/zh/how-to-compare-two-excel-files-for-differences-in-seconds.md",
+    "language": "zh"
+  }
+]

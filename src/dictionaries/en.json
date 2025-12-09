@@ -1,0 +1,305 @@
+{
+  "navigation": {
+    "home": "Home",
+    "compareTwoColumns": "Compare Two Sheets",
+    "posts": "Articles",
+    "admin": "Admin",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "home": {
+    "title": "Compare Excel Files Online",
+    "subtitle": "Stop using tedious VLOOKUP or COUNTIF",
+    "description": "Instantly find duplicates, unique values, and missing items.",
+    "tagline1": "100% Free",
+    "tagline2": "Privacy First",
+    "tagline3": "No Formulas",
+    "tagline4": "Instant Diff",
+    "moreArticles": "More articles"
+  },
+  "keyFeatures": {
+    "title": "Key Features for Comparing Excel Files Online",
+    "freeNoInstall": {
+      "title": "Free & No Installation",
+      "description": "Enjoy a powerful, professional-grade comparison tool completely for free—no software to install, no accounts to create, just open and use."
+    },
+    "privateSecure": {
+      "title": "100% Private & Secure",
+      "description": "Your files are processed strictly within your browser and never uploaded to any server, ensuring your sensitive business data stays on your device."
+    },
+    "universalFormat": {
+      "title": "Support for .xlsx, .xls and .csv",
+      "description": "Seamlessly compare a wide range of spreadsheet formats, including .xlsx, .xls, and .csv, without the need for manual conversion."
+    },
+    "syncScrolling": {
+      "title": "Smart Synchronized Scrolling",
+      "description": "Automatically syncs the view of both spreadsheets as you scroll, keeping rows perfectly aligned so you can compare data side-by-side effortlessly."
+    },
+    "instantHighlight": {
+      "title": "Cell-Level Difference Highlighting",
+      "description": "Changes, additions, and deletions are color-coded instantly, helping you spot even the smallest discrepancies at a simple glance."
+    },
+    "highPerformance": {
+      "title": "High-Speed Performance",
+      "description": "Optimized to handle massive spreadsheets smoothly, giving you fast and lag-free comparisons regardless of file size."
+    }
+  },
+  "faq": {
+    "title": "FAQ about Excel File Comparison",
+    "subtitle": "Have another question? Contact us at support@excelcompare.org",
+    "questions": [
+      {
+        "question": "What is the best way to compare two Excel files for differences online?",
+        "answer": "<strong>Excel Compare</strong> offers the most intuitive solution. Unlike manual checking, our tool automates the process. Simply upload your <strong>original and modified sheets</strong>, and the system will instantly identify data discrepancies. It acts as a visual &quot;diff tool&quot; specifically designed for spreadsheets, making it the <strong>best tool to compare two Excel files</strong> without complex setups."
+      },
+      {
+        "question": "How do I compare sheets side by side without extra software?",
+        "answer": "You don&apos;t need to install heavy desktop software. <strong>Excel Compare</strong> runs directly in your browser. It features <strong>smart synchronized scrolling</strong>, meaning when you scroll one sheet, the other moves automatically. This allows for a perfect <strong>side-by-side comparison</strong> of rows and columns to spot changes immediately."
+      },
+      {
+        "question": "Can this tool automatically highlight changes between Excel spreadsheets?",
+        "answer": "Yes. Our engine is designed to <strong>automatically highlight changes</strong> with distinct colors. Modified cells, added rows, and deleted data are color-coded (e.g., green for additions, red for deletions). This visual approach is much faster than standard Excel formulas for finding <strong>data discrepancies</strong>."
+      },
+      {
+        "question": "Is it safe to use free online services to compare Excel files?",
+        "answer": "Most online converters upload your data to a server, which is a risk. However, <strong>Excel Compare is unique</strong>: we use <strong>client-side processing</strong> technology. Your data <strong>never leaves your computer</strong>; the comparison happens entirely within your browser. It is the most secure way to <strong>compare Excel sheets for differences</strong> online."
+      },
+      {
+        "question": "Can I compare large Excel files with thousands of rows?",
+        "answer": "Yes. Our engine is optimized for high performance. Whether you need to <strong>compare large Excel files</strong> or simple lists, the tool handles heavy datasets smoothly without the lag often seen in other web apps. We support files with extensive row counts, ensuring you can analyze big data efficiently."
+      },
+      {
+        "question": "Is Excel Compare completely free to use?",
+        "answer": "Yes, we are one of the few truly <strong>free online services to compare Excel files</strong>. There are no hidden subscription fees, no &quot;Pro&quot; versions for basic features, and no credit card required. You get full access to professional comparison features at no cost."
+      }
+    ]
+  },
+  "articles": {
+    "title": "Articles",
+    "noCategory": "No Category",
+    "noArticles": "No articles available",
+    "moreArticles": "More articles →",
+    "coverImageAlt": "Article cover image",
+    "readMore": "Read more"
+  },
+    "admin": {
+    "dashboard": "Admin Dashboard",
+    "manageArticles": "Manage Articles",
+    "name": "Name",
+    "description": "Description",
+    "url": "URL",
+    "category": "Category",
+    "actions": "Actions",
+    "edit": "Edit",
+    "save": "Save",
+    "addNew": "Add New",
+    "createArticle": "Create New Article",
+    "editArticle": "Edit Article",
+    "articleTitle": "Article Title",
+    "articleDescription": "Article Description",
+    "articleSlug": "Article Slug",
+    "articleContent": "Article Content (Markdown)",
+    "categoryOptional": "Category (Optional)",
+    "creating": "Creating...",
+    "create": "Create Article",
+    "loading": "Loading...",
+    "savingArticle": "Saving..."
+  },
+  "login": {
+    "title": "Admin Login",
+    "username": "Username",
+    "password": "Password",
+    "enterUsername": "Enter username",
+    "enterPassword": "Enter password",
+    "signIn": "Sign In",
+    "signingIn": "Signing In..."
+  },
+  "excelUpload": {
+    "title": "Upload Excel Files",
+    "subtitle": "Drag and drop Excel files to compare",
+    "privacyNotice": "Your data never leaves your browser. 100% Private.",
+    "dropZone": {
+      "dragText": "Drop Excel file here",
+      "clickText": "or click to select file",
+      "uploading": "Uploading file...",
+      "supportedFormats": "Supports .xlsx, .xls, .xlsm, .xlsb formats",
+      "maxSize": "Maximum file size: {size}"
+    },
+    "preview": {
+      "sheetSelector": "Worksheet:",
+      "columnSelector": "Match Column",
+      "reupload": "Delete",
+      "loading": "Parsing Excel file...",
+      "emptyWorksheet": "Current worksheet is empty",
+      "emptyWorksheetMessage": "The worksheet is empty",
+      "emptyWorksheetTryOther": "Try switching to another worksheet to view data",
+      "noData": "No data in current worksheet",
+      "noDataMessage": "Worksheet contains only formatting or empty cells",
+      "dataTruncated": "Showing first 1000 rows, total {total} rows...",
+      "rows": "rows",
+      "columns": "columns"
+    },
+    "error": {
+      "invalidFormat": "Unsupported file format, please upload Excel file (.xlsx, .xls, .xlsm, .xlsb)",
+      "fileTooLarge": "File is too large, maximum supported size is {size}",
+      "parseError": "Excel file parsing failed",
+      "reselectFile": "Select file again",
+      "uploadFailed": "Upload failed"
+    },
+    "findDifferenceButton": "Find Difference",
+    "comparing": "Comparing",
+    "comparingColumns": "Comparing: Col {leftCol} & {rightCol}",
+    "matchRows": "Match: {count}",
+    "leftUnique": "Left Unique: {count}",
+    "rightUnique": "Right Unique: {count}",
+    "differenceResults": "Difference Results",
+    "backToPreview": "Back to Preview",
+    "originalFile": "Original File",
+    "modifiedFile": "Modified File",
+    "statistics": "Statistics",
+    "unchanged": "Unchanged",
+    "modified": "Modified",
+    "added": "Added",
+    "deleted": "Deleted",
+    "totalRows": "Total",
+    "differenceRate": "Difference Rate",
+    "calculating": "Calculating differences...",
+    "showDiffs": "Show Diffs",
+    "showMatches": "Show Matches"
+  },
+  "language": {
+    "select": "Select Language",
+    "suggestion": {
+      "message": "Your browser language is {language}. We support this language.",
+      "switch": "Switch to {language}",
+      "dismiss": "Continue in {currentLanguage}"
+    }
+  },
+  "howToCompare": {
+    "title": "Choose Your Comparison Mode",
+    "subtitle": "Select the right tool below to spot differences instantly, no formulas needed.",
+    "step1": {
+      "title": "Visual Full Sheet Comparison",
+      "description": "The most intuitive tool for \"spotting differences.\" Upload your old and new Excel files, and the system displays them side-by-side, automatically highlighting all modifications, additions, and deletions. No need for manual row-by-row checking; see all version changes at a glance.",
+      "feature1": "Synchronized scrolling",
+      "feature2": "Smart highlighting",
+      "feature3": "Perfect format support"
+    },
+    "step2": {
+      "title": "Cross-Sheet List Check",
+      "description": "Just need to check who is missing or added across two lists? No matter how jumbled the data order is, we help you instantly extract 'Common Items' and 'Unique Items' from two columns. Perfect for attendance checks, inventory counts, and efficiently removing duplicates.",
+      "feature1": "Auto-Deduplication",
+      "feature2": "Intersection & Difference views",
+      "feature3": "Lightweight operation"
+    },
+    "step3": {
+      "title": "Smart ID-Based Compare",
+      "description": "Say goodbye to complex VLOOKUP formulas! Select a \"Unique Identifier\" column (e.g., Employee ID, SKU) as the Key, and choose a Value column to compare. The system filters \"Common Items\" and \"Unique Items\" from disordered tables and highlights any numerical changes.",
+      "feature1": "Ignore row order",
+      "feature2": "Precise field check",
+      "feature3": "Zero formula threshold"
+    },
+    "stepButton": {
+      "step1": "Sheet Diff",
+      "step2": "Column Diff",
+      "step3": "ID Match"
+    },
+    "compareSheetsButton": "Compare Two Sheets",
+    "compareColumnsButton": "Compare Two Columns",
+    "ariaLabel": "Go to step {step}"
+  },
+  "reviews": {
+    "title": "What Users Say About this Compare Tool",
+    "subtitle": "See how professionals save hours and eliminate manual work"
+  },
+  "compareTwoColumns": {
+    "hero": {
+      "title": "Compare Two Excel Columns",
+      "subtitle": "Stop using tedious VLOOKUP or COUNTIF"
+    },
+    "howToCompare": {
+      "title": "How to Compare Two Columns in Excel",
+      "subtitle": "Find duplicates and unique values without VLOOKUP formulas.",
+      "description": "Comparing two lists in Excel often requires writing complex VLOOKUP formulas or using Conditional Formatting rules that are hard to manage. Our tool simplifies this into 3 steps:",
+      "steps": {
+        "upload": {
+          "title": "Upload Your Files",
+          "description": "Drag and drop your Excel files. You can verify lists from the same file or compare columns across two different files."
+        },
+        "selectColumns": {
+          "title": "Select Target Columns",
+          "description": "Unlike full-sheet comparisons, you simply choose \"Column A\" from the first list and \"Column B\" from the second list."
+        },
+        "chooseView": {
+          "title": "Choose Your View",
+          "description": "**Intersection:** See items present in both lists (Duplicates).\n**Unique to A:** See what is missing from list B.\n**Unique to B:** See new items added to list B."
+        }
+      },
+      "carousel": {
+        "descriptions": {
+          "instantPreview": "Instant Data Preview",
+          "visualComparison": "Visual Comparison",
+          "focusOnDifferences": "Focus on Differences",
+          "findMatches": "Find Matches Instantly"
+        }
+      }
+    },
+    "scenarios": {
+      "title": "Real-World Scenarios for Column Comparison",
+      "subtitle": "Simplify data reconciliation tasks for marketing, HR, and finance.",
+      "emailMarketing": {
+        "title": "Email Marketing Cleanup",
+        "content": "You have a \"New Leads\" list and a \"Do Not Contact\" list. Use this tool to compare the email columns and instantly generate a clean list by removing anyone who appears in the exclusion list."
+      },
+      "eventTracking": {
+        "title": "Event Attendance Tracking",
+        "content": "Compare your \"Registered Attendees\" column against the \"Checked-In\" column. Select \"Unique to Registered\" to instantly get a list of people who signed up but missed the event."
+      },
+      "financialReconciliation": {
+        "title": "Monthly Financial Reconciliation",
+        "content": "Upload your internal ledger and your bank statement. Compare the \"Transaction Reference ID\" columns to spot which entries are recorded in the bank but missing from your books (or vice versa)."
+      }
+    },
+    "faq": {
+      "title": "FAQ about Comparing Two Columns",
+      "subtitle": "Have another question? Contact us at support@excelcompare.org",
+      "questions": [
+        {
+          "question": "How do I compare two columns in Excel for duplicates without formulas?",
+          "answer": "Simply upload your file to ExcelCompare, select the two columns you want to check, and click the \"Intersection\" button. The tool will instantly extract all duplicate values found in both lists, saving you from writing COUNTIF or VLOOKUP formulas."
+        },
+        {
+          "question": "Can I compare columns from two different Excel files?",
+          "answer": "Yes. Native Excel requires both sheets to be in the same workbook for easy comparison. Our online tool allows you to upload two separate files (e.g., January.xlsx and February.xlsx) and compare specific columns side-by-side immediately."
+        },
+        {
+          "question": "What if the data has extra spaces or different casing?",
+          "answer": "Our tool includes smart trimming. It automatically ignores leading/trailing spaces, ensuring that \" Apple \" and \"Apple\" are treated as a match. This saves hours of manual data cleaning."
+        },
+        {
+          "question": "Is this tool different from the \"Sheet Comparison\" on the homepage?",
+          "answer": "Yes. The homepage tool is for <a href=\"/\" style=\"color: #20A884; text-decoration: underline;\" onmouseover=\"this.style.color='#1a8868';\" onmouseout=\"this.style.color='#20A884';\">\"Compare Two Excel Files\"</a>—it highlights changes in layout, formatting, and cell content row-by-row. This \"Column Comparison\" tool is for Lists (Set Logic). It ignores row positions and focuses purely on whether items exist in one list or the other."
+        },
+        {
+          "question": "I need to match rows by ID and then compare their values (e.g., Price). Is this the right tool?",
+          "answer": "No. If you need to align rows based on a Key (like SKU) and then compare a Value (like Price), please use our Key + Value Comparison tool. The current page is strictly for comparing the contents of two single columns."
+        },
+        {
+          "question": "Is my data secure?",
+          "answer": "Completely. All comparison processing happens in your browser (Client-side). Your Excel files are never uploaded to our server or stored, ensuring your sensitive lists remain private."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Excel Compare Tool: Compare Excel files online instantly & free. Spot every change in xlsx, xls, csv. Lightning-fast, supports huge files. No upload, full privacy.",
+    "quickLinks": "Quick Links",
+    "connect": "Contact",
+    "home": "Home",
+    "articles": "Articles",
+    "github": "support@excelcompare.org",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "copyright": "© {year} Excel Compare. All rights reserved."
+  }
+}

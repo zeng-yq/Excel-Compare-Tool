@@ -1,0 +1,39 @@
+// 对于 SAME 行，并且处于选中的那一列上的单元格，左侧和右侧都用绿色背景
+// 对于 DIFF 行，并且处于选中的那一列上的单元格，左侧和右侧都用红色背景
+
+
+{
+  "tableA": [
+    {
+      "status": "SAME",           // 核心状态：'SAME' (交集) 或 'DIFF' (差异)
+      "rowIndex": 0,              // 原始行号 (0开始)
+      "key": "ord-001",           // 用于比对的标准化键值 
+      "data": ["ORD-001", "张三"]  // 原始行数据 (数组)
+    },
+    {
+      "status": "DIFF",
+      "rowIndex": 1,
+      "key": "ord-002",
+      "data": ["ORD-002", "李四"]
+    }
+  ],
+  "tableB": [
+    {
+      "status": "SAME",
+      "rowIndex": 0,
+      "key": "ord-001",
+      "data": ["ORD-001", "已支付"]
+    },
+    {
+      "status": "DIFF",
+      "rowIndex": 1,
+      "key": "ord-005",
+      "data": ["ORD-005", "新订单"]
+    }
+  ],
+  "stats": {
+    "commonKeys": 1,  // 交集数量 (即有多少个唯一的 key 同时存在于两表中)
+    "totalA": 2,      // 表A总行数
+    "totalB": 2       // 表B总行数
+  }
+}
