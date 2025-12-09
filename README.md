@@ -1,125 +1,125 @@
 # Excel Compare
 
-别再折腾 VLOOKUP 公式了！Excel Compare 是一个完全免费的在线工具，帮你快速找出两个 Excel 文件的差异。
+Stop messing with VLOOKUP formulas! [ExcelCompare](https://excelcompare.org) is a completely free online tool that helps you quickly find the differences between two Excel files.
 
 ![Excel Compare](public/images/landing-page/excel-comparison-side-by-side-highlight.webp)
 
-## 主要功能
+## Key Features
 
-### 双文件对比
-- 完整对比两个 Excel 文件的所有内容
-- 左右两边可以独立切换不同的工作表
-- 自动标出新增、删除和修改的内容
-- 两边表格同步滚动，对比更方便
+### Dual File Comparison
+*   Compare the complete content of two Excel files.
+*   Independently switch between different worksheets on the left and right sides.
+*   Automatically highlight added, deleted, and modified content.
+*   Synchronous scrolling for easier comparison.
 
-### 两列数据对比
-- 快速找出两列中的重复数据
-- 高亮显示只存在于某一列的值
-- 统计匹配和差异的数量
+### Two Column Comparison
+*   Quickly find duplicate data across two columns.
+*   Highlight unique values that exist only in a specific column.
+*   Statistics on the number of matches and differences.
 
-![两列对比示例](public/images/compare-two-columns/highlight-result-compare-two-column.webp)
+![Two Column Comparison Example](public/images/compare-two-columns/highlight-result-compare-two-column.webp)
 
-### 智能显示
-- 用不同颜色标识变化：绿色是新增，红色是删除，黄色是修改
-- 自动隐藏相同的行，让你专注看差异
-- 想看完整内容时，点击就能展开
+### Smart Display
+*   Color-coded changes: Green for additions, Red for deletions, Yellow for modifications.
+*   Automatically hide identical rows so you can focus on the differences.
+*   Expand to view full content whenever needed.
 
-## 适合什么场景
+## Use Cases
 
-### 财务工作
-- 对比这个月和上个月的财务报表
-- 核对预算和实际花了多少钱
-- 查看账目有哪些变动
+### Finance
+*   Compare financial statements between the current month and the previous month.
+*   Reconcile budget versus actual spending.
+*   Check for changes in accounts.
 
-### 数据处理
-- 找出并清理重复的数据
-- 检查数据是不是完整
-- 追踪数据都改了些什么
+### Data Processing
+*   Identify and clean up duplicate data.
+*   Check data integrity.
+*   Track what changes have been made to the data.
 
-### 日常办公
-- 对比两个版本的客户名单
-- 检查库存数量变化
-- 核对员工信息更新
+### Daily Office Work
+*   Compare two versions of a client list.
+*   Check for changes in inventory quantities.
+*   Verify employee information updates.
 
-## 为什么要用这个？
+## Why Use This?
 
-| 特点 | Excel Compare | 传统方法 |
-|------|--------------|----------|
-| 费用 | 完全免费 | 要买软件 |
-| 安装 | 不用装 | 得安装 |
-| 隐私 | 文件在自己电脑 | 数据传到云端 |
-| 操作 | 拖拖文件就行 | 公式很复杂 |
-| 速度 | 几秒钟就好 | 要搞很久 |
+| Feature | Excel Compare | Traditional Methods |
+| :--- | :--- | :--- |
+| **Cost** | Completely Free | Need to buy software |
+| **Installation** | No installation required | Must install software |
+| **Privacy** | Files stay on your computer | Data uploaded to cloud |
+| **Operation** | Just drag and drop files | Complex formulas |
+| **Speed** | Done in seconds | Takes a long time |
 
-## 数据安全
+## Data Security
 
-你的数据安全最重要：
-- 所有处理都在你的浏览器里完成
-- 文件不会传到任何服务器上
-- 我们不记录、不存储任何文件
-- 关掉浏览器，数据就没了
+Your data security is our top priority:
+*   All processing is done within your browser.
+*   Files are never uploaded to any server.
+*   We do not record or store any files.
+*   Close the browser, and the data is gone.
 
-## 支持哪些格式
+## Supported Formats
 
-- Excel 文件：.xlsx, .xls, .xlsm, .xlsb
-- CSV 文件：.csv
-- 文件大小：建议不超过 50MB
+*   **Excel Files:** .xlsx, .xls, .xlsm, .xlsb
+*   **CSV Files:** .csv
+*   **File Size:** Recommended under 50MB
 
-## 怎么用
+## How to Use
 
-### 对比两个 Excel 文件
-1. 打开 [https://excelcompare.org](https://excelcompare.org)
-2. 把第一个文件拖到左边
-3. 把第二个文件拖到右边
-4. 选好要对比的工作表
-5. 点"开始对比"就行了
+### Compare Two Excel Files
+1.  Open the [online excel compare tool](https://excelcompare.org)
+2.  Drag the first file to the left area.
+3.  Drag the second file to the right area.
+4.  Select the worksheets you want to compare.
+5.  Click "Start Compare".
 
-### 对比两列数据
-1. 进入两列对比页面
-2. 上传你的 Excel 文件
-3. 选要对比的两列
-4. 马上看到结果
+### Compare Two Columns
+1.  Go to the Two Column Comparison page.
+2.  Upload your Excel file.
+3.  Select the two columns you want to compare.
+4.  See the results instantly.
 
-![重复值高亮](public/images/compare-two-columns/show-duplicates-compare-two-column.webp)
-![唯一值显示](public/images/compare-two-columns/show-unique-values-compare-two-column.webp)
+![Highlight Duplicates](public/images/compare-two-columns/show-duplicates-compare-two-column.webp)
+![Highlight Unique Values](public/images/compare-two-columns/show-unique-values-compare-two-column.webp)
 
-## 常见问题
+## FAQ
 
-**Q: 这个工具要钱吗？**
-A: 完全免费，没有任何收费项目。
+**Q: Is this tool free?**
+A: Completely free, with no paid features.
 
-**Q: 我的文件会上传到服务器吗？**
-A: 不会！所有处理都在你自己的浏览器里进行。
+**Q: Will my files be uploaded to a server?**
+A: No! All processing happens right in your own browser.
 
-**Q: 支持哪些浏览器？**
-A: Chrome、Firefox、Safari、Edge 这些主流浏览器都支持。
+**Q: Which browsers are supported?**
+A: Mainstream browsers like Chrome, Firefox, Safari, and Edge are all supported.
 
-**Q: 能对比多大的文件？**
-A: 建议不超过 50MB，这样效果最好。
+**Q: What is the file size limit?**
+A: We recommend files under 50MB for the best performance.
 
-**Q: 对比结果准不准？**
-A: 我们用的是专业的差异算法，结果很可靠。
+**Q: Is the comparison accurate?**
+A: We use professional difference algorithms, so the results are very reliable.
 
-**Q: 需要安装软件吗？**
-A: 不用装任何东西，有浏览器就能用。
+**Q: Do I need to install any software?**
+A: No need to install anything, just use your browser.
 
-## 一些小技巧
+## Tips
 
-1. 只看有差异的内容：用折叠功能隐藏相同行
-2. 调整显示高度：选 15/30/50 行，看着最舒服
-3. 多个表一起对比：可以快速切换不同的 Sheet
-4. 保存结果：截图存下来，方便分享
+1.  **Focus on differences:** Use the fold/collapse feature to hide identical rows.
+2.  **Adjust view:** Select 15/30/50 rows for the most comfortable view.
+3.  **Multi-sheet comparison:** Quickly switch between different Sheets.
+4.  **Save results:** Take a screenshot to save and share the results easily.
 
-## 用户怎么说
+## Testimonials
 
-> "再也不用写 VLOOKUP 了！现在每月对账从两小时变成五分钟。" - 某公司财务经理
+> "No more writing VLOOKUPs! Monthly reconciliation went from two hours to five minutes." - *A Company Finance Manager*
 
-> "数据安全这点让我很放心，我们处理的都是客户敏感信息。" - 数据分析师
+> "I'm very reassured by the data security; we handle sensitive client information." - *Data Analyst*
 
-> "界面很干净，一看就会用，我们团队效率提高了不少。" - 项目主管
+> "The interface is clean and intuitive; our team's efficiency has improved a lot." - *Project Lead*
 
 ---
 
-**试试看**：[https://excelcompare.org](https://excelcompare.org)
+**Try it out**: [https://excelcompare.org](https://excelcompare.org)
 
-有问题或建议，欢迎在 GitHub 上告诉我们。
+If you have questions or suggestions, feel free to let us know on GitHub.
